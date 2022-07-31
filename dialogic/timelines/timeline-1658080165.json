@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i wish i could do what i wish\ni also wish i could hear that music again\nya know, the song in 5?\n...\ni just want to hear it once\ni made that song you know\nthen i rolled a stupid die and found myself here\n...\nthe drone of these towers\nit makes me think of my song\nit makes me sad\n"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658080165.json",
+		"name": "6a"
+	}
+}

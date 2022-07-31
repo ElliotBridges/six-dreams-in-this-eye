@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i sit here lisening to their words\nmy ears feel far away\ni watch the body play alone in the fun little games\nwith people\ndo i know them?\n...\nare you yourself?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1659055473.json",
+		"name": "12d"
+	}
+}

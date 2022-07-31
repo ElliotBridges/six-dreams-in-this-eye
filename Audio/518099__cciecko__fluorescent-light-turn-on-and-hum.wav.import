@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/518099__cciecko__fluorescent-light-turn-on-and-hum.wav-2d94565e70e8596c01b724ed1c93be40.sample"
+
+[deps]
+
+source_file="res://Audio/518099__cciecko__fluorescent-light-turn-on-and-hum.wav"
+dest_files=[ "res://.import/518099__cciecko__fluorescent-light-turn-on-and-hum.wav-2d94565e70e8596c01b724ed1c93be40.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

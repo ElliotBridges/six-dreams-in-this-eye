@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i love cats, don't you?\nthey make me so happy\nhearing their little meows fills me with happyness\na happyness that brings the moon closer\ni can feel it!\nthe moon will come down and boom!\nit will end!\nwe will have a close to this story!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658765238.json",
+		"name": "3cats2a"
+	}
+}

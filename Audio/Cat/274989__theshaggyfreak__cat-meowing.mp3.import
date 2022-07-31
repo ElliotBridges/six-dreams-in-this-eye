@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/274989__theshaggyfreak__cat-meowing.mp3-666f7daef20240ee99e97b46b4f15f85.mp3str"
+
+[deps]
+
+source_file="res://Audio/Cat/274989__theshaggyfreak__cat-meowing.mp3"
+dest_files=[ "res://.import/274989__theshaggyfreak__cat-meowing.mp3-666f7daef20240ee99e97b46b4f15f85.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

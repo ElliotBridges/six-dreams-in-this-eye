@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/632123__audacitier__cat-screaming-1.mp3-e2a1c16938ccb94d7b50d323bc93bdc9.mp3str"
+
+[deps]
+
+source_file="res://Audio/Cat/632123__audacitier__cat-screaming-1.mp3"
+dest_files=[ "res://.import/632123__audacitier__cat-screaming-1.mp3-e2a1c16938ccb94d7b50d323bc93bdc9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

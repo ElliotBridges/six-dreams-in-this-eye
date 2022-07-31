@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "they say that she died here\ni think it was suposed to be sad or somthing\nsome storie to make the people who see this house...\n...feel sad, meloncoly, perhapes a bit scared?\nhow should i know\ni don't know what the mind is thinking"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658163403.json",
+		"name": "misc 1a"
+	}
+}

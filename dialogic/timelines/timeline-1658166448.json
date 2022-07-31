@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i wonder...\nif you become an expert at somtihing do you feel more fulfiled with life?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658166448.json",
+		"name": "misc 2"
+	}
+}

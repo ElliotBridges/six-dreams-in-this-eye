@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/531947__straget__the-rain-falls-against-the-parasol.wav-e21d23fa196064b6dfd00f064eee2ccb.sample"
+
+[deps]
+
+source_file="res://Audio/531947__straget__the-rain-falls-against-the-parasol.wav"
+dest_files=[ "res://.import/531947__straget__the-rain-falls-against-the-parasol.wav-e21d23fa196064b6dfd00f064eee2ccb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

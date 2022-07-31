@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...\ni guess i didn't get what i wanted\n...\nlet me ask you a question\n...\nare you happy?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658764656.json",
+		"name": "6c"
+	}
+}

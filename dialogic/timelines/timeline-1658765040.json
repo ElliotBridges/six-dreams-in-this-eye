@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "supa epic\nyou found a cat!\ni would help you find the rest if i could move\nunforchinetly the mind didn't give me that\nonly you can move\ndoes that mean this is for you?\nor did the mind make it for itself?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658765040.json",
+		"name": "3cats1a"
+	}
+}

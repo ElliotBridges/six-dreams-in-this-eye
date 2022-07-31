@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i wonder how the mind fealt about this world\ndid it like it?\ndid it want there to be more trees?\ndid it sleep enough?\nno, probebly not\n...\ndid you sleep enough?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658765871.json",
+		"name": "2b"
+	}
+}

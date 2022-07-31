@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "ooo spooky\nwe're under the trees now!\ni guess this is the well they get their water from!\ncool cool\ni guess the only way out is through this hole"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658775716.json",
+		"name": "22a"
+	}
+}

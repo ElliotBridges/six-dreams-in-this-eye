@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "alright here we are\nnear the end\nthe moon must move with a force when they all are here!\nyes thats it!\nfinaly!\nall the silence will be broken!\nthe sky will spilt!  the stars show!\nand the crashing boom! of the moon will conclude this world!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1659056711.json",
+		"name": "3cats4a"
+	}
+}

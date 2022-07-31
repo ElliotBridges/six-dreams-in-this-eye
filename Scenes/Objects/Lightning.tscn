@@ -1,0 +1,63 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Images/spark_06.png" type="Texture" id=1]
+[ext_resource path="res://Scripts/Lightning.gd" type="Script" id=2]
+
+[sub_resource type="SpatialMaterial" id=4]
+flags_transparent = true
+flags_unshaded = true
+params_blend_mode = 1
+params_billboard_mode = 2
+albedo_texture = ExtResource( 1 )
+uv1_scale = Vector3( -1, 10, 0 )
+
+[sub_resource type="QuadMesh" id=5]
+material = SubResource( 4 )
+size = Vector2( 100, 100 )
+
+[sub_resource type="SpatialMaterial" id=2]
+flags_transparent = true
+flags_unshaded = true
+params_blend_mode = 1
+params_billboard_mode = 2
+albedo_texture = ExtResource( 1 )
+uv1_scale = Vector3( 1, 10, 0 )
+
+[sub_resource type="QuadMesh" id=3]
+material = SubResource( 2 )
+size = Vector2( 100, 100 )
+
+[node name="Lightning" type="Spatial"]
+script = ExtResource( 2 )
+
+[node name="OmniLight" type="OmniLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -3.71966, 0 )
+visible = false
+light_energy = 5.0
+shadow_enabled = true
+shadow_bias = 1.9
+omni_range = 109.021
+
+[node name="OmniLight3" type="OmniLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.105926, 0 )
+light_energy = 5.0
+shadow_bias = 0.5
+omni_range = 70.168
+omni_attenuation = 7.99996
+
+[node name="OmniLight2" type="OmniLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.90613, 0 )
+visible = false
+light_energy = 5.0
+shadow_enabled = true
+shadow_bias = 0.5
+omni_range = 109.021
+
+[node name="Lightning2" type="MeshInstance" parent="."]
+mesh = SubResource( 5 )
+skeleton = NodePath("../Lightning1")
+material/0 = null
+
+[node name="Lightning1" type="MeshInstance" parent="."]
+mesh = SubResource( 3 )
+material/0 = null

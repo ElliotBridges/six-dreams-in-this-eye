@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "yo yo!\nwas it easy to get up here?\nperhaps perhapes\nit is sure nice up here in the trees"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658079133.json",
+		"name": "2a"
+	}
+}

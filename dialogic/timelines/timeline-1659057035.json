@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "you've talked to every one right?\nthat means theres nothing left\nit is the end\nperhapes the moon falls when you leave\nor you know\nthe end comes because you are no loger interested in this world"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1659057035.json",
+		"name": "3cats5b"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "help me find more cats eh?\nya know, neko yume style!\nthey all got lost\nperhapes if they all come back, the moon will come down and save us all"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658764964.json",
+		"name": "3cats0b"
+	}
+}

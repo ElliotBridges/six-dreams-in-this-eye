@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "let me say something to you\nwho ever you are\ni hope my thoughts helped you think on somthing"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1659204803.json",
+		"name": "32c"
+	}
+}

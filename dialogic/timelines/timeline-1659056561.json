@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "eh?\nthe moon stands still\nwith 3 / 5 cats here you would think...\nno no no\nthis was going to be the end!\nthe opus magnum!\nwhy?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1659056561.json",
+		"name": "3cats3a"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "huh.\nlooks like the mind forgot somthing here\nsomthing beutiful\nya know...\nsome dream of a far off place\nsome cool relaxing world\n...\nmade into a reality, and the dream dies\nok ok now"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658079727.json",
+		"name": "1a"
+	}
+}

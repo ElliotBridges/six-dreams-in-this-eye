@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "wasssap\nnothin' much down here, is there\nneeds some nice plants or somthing\ntrue true\nwell\nhow are ya doin?"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658041262.json",
+		"name": "5a"
+	}
+}

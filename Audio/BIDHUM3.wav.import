@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/BIDHUM3.wav-71f4b133e8ac22b2a94ac6602e3b1fb2.sample"
+
+[deps]
+
+source_file="res://Audio/BIDHUM3.wav"
+dest_files=[ "res://.import/BIDHUM3.wav-71f4b133e8ac22b2a94ac6602e3b1fb2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

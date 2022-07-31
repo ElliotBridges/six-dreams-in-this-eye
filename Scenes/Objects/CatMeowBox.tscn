@@ -1,0 +1,30 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Audio/Cat/Cat3.wav" type="AudioStream" id=2]
+[ext_resource path="res://Audio/Cat/Cat4.wav" type="AudioStream" id=3]
+[ext_resource path="res://Audio/Cat/Cat2.wav" type="AudioStream" id=4]
+[ext_resource path="res://Audio/Cat/Cat1.wav" type="AudioStream" id=5]
+[ext_resource path="res://Scripts/CatMeow.gd" type="Script" id=6]
+
+[node name="CatMeowBox" type="Spatial"]
+script = ExtResource( 6 )
+
+[node name="Meow1" type="AudioStreamPlayer3D" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.18002, 0 )
+stream = ExtResource( 5 )
+unit_db = 8.0
+
+[node name="Meow2" type="AudioStreamPlayer3D" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.18, 0 )
+stream = ExtResource( 4 )
+unit_db = 8.0
+
+[node name="Meow3" type="AudioStreamPlayer3D" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.18002, 0 )
+stream = ExtResource( 2 )
+unit_db = 8.0
+
+[node name="Meow4" type="AudioStreamPlayer3D" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.18, 0 )
+stream = ExtResource( 3 )
+unit_db = 8.0

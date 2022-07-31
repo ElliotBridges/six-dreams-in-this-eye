@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/372181__amholma__ocean-noise-surf.wav-5b25ebb7a9e558ce620a775a90b39c79.sample"
+
+[deps]
+
+source_file="res://Audio/372181__amholma__ocean-noise-surf.wav"
+dest_files=[ "res://.import/372181__amholma__ocean-noise-surf.wav-5b25ebb7a9e558ce620a775a90b39c79.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "strange an't it\nyou see me here\nand you see me down there!\nwhat strange magic is this!?\ntruth is i came up here to take a closer look at the moon\npretty beutifull\nwish it would come down closer\n..."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1659204454.json",
+		"name": "32a"
+	}
+}
